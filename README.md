@@ -1,1 +1,1 @@
-# DataGrid Component created with ReactJS and TypeScript
+# Library Template for ReactJS with TypeScript and Styled Components
